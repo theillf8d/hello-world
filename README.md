@@ -1,5 +1,5 @@
 # hello-world
-Time honored tradition shall not be ignored!
+It's a tradition...
 
 README.md
 Information about the author is on a need-to-know basis only.
